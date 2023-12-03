@@ -1,0 +1,121 @@
+.row1{
+    width: 875px;
+    padding-left: 180px;
+    padding-top: 100px;
+  
+  }
+  .h{
+    line-height: 70px;
+    color: #140342;
+    font-size: 42px;
+  }
+  h4{
+    font-weight: lighter;
+  }
+  .para{
+    font-size: 28px;
+    font-weight: 350;
+    margin-bottom: 0;
+  }
+  .join-bt{
+    color: white;
+    background-color:#2e3589;
+    border: none;
+    height: 50px;
+    width: 160px;
+    border-radius: 3px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  .view-bt{
+    color: white;
+    background-color: #0fb298;
+    border: none;
+    height: 50px;
+    width: 190px;
+    border-radius: 3px;
+    font-size: 18px;
+  }
+  .about{
+    padding-left: 40px;
+  }
+.readmore-bt{
+    color: white;
+    background-color:#2e3589;
+    border: none;
+    height: 50px;
+    width: 160px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-size: 17px;
+    
+}
+.joinc-bt{
+    border-color: #2e3589;
+    color: #2e3589;
+    border-style: solid;
+    height: 50px;
+    width: 230px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+.secpara{
+    padding: 15px;
+}
+.img{
+    padding-left: 60px;
+    padding-top: 30px;
+    height: 150px;
+    width: 350px;
+}
+.sec1{
+  text-align: center;
+  padding-top: 110px;
+  align-content: center;
+}
+.color-line {
+  width: 25%;
+  height: 4px; /* Adjust the height of the line as needed */
+  background: linear-gradient(to right, #2e3589 50%, #0fb298 50%);
+  margin-left: 37.5%;
+}
+
+.cimg{
+  margin-right: 15px;
+  border-radius: 8px;
+  border: 1px solid #f6efef;
+}
+.browse-bt{
+  color: white;
+  background-color: #0fb298;
+  border: none;
+  height: 50px;
+  width: 190px;
+  border-radius: 8px;
+  font-size: 18px;
+  margin-top: 14px;
+}
+.white-sec{
+  height: 330px;
+  width: 390px;
+  background-color: white;
+  margin-bottom: 0px;
+  border-radius: 0 60px;
+}
+.wsec-img{
+  padding-top: 26px;
+  padding-left: 120px;
+  margin-bottom: 30px;
+}
+.blue{
+  color: #2e3589;
+  font-weight: bold;
+}
+body{
+  overflow: auto;
+}
+
+.yt{
+  width: 650px;
+
+}
